@@ -1,0 +1,43 @@
+Docker Commands
+---------------
+- docker images
+- docker image inspect [image-id]
+- docker rmi [image-id]
+- docker build . -t [image-name]
+- docker run -p [host port]:[container port] [image-name]
+- docker ps
+- docker ps -a
+- docker rm [container-id]
+- docker start [container-id]
+- docker stop [container-id]
+- docker pause [container-id]
+- docker unpause [container-id]
+- docker stop [container-id]
+- docker kill [container-id]
+- docker restart [container-id]
+- docker rm [container-id]
+- docker inspect [container-id]
+- docker exec -it [container-id] /bin/bash
+- docker logs -f [container-id]
+- docker prune
+- docker image push [container_registry/username:tag]
+- docker image pull [container_registry/username:tag]
+- docker image prune
+- docker container stats
+- docker system prune
+- docker login -u [username]
+- docker logout
+- docker history [image-name]
+- docker exec -it [container-id] sh
+- docker compose up -d
+- docker compose down
+- docker compose ps
+- docker compose logs
+- docker compose start
+- docker compose stop
+- docker network ls
+- docker network inspect [network-id]
+- docker network rm [network-id]
+- docker volume ls
+- docker volume inspect [volume-id]
+- docker volume rm [volume-id]

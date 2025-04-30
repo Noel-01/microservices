@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the course about microservices with prod APIs"
+  contactDetails:
+    name: "Pepito - Product Owner"
+    email: "pepito@email.com"
+  onCallSupport:
+    - 677777777
+    - 688888888

@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the course about microservices related to QA APIs"
+  contactDetails:
+    name: "Juanito - QA"
+    email: "juanito@email.com"
+  onCallSupport:
+    - 677777777
+    - 688888888
