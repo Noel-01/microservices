@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+cards:
   message: "Welcome to the course about cards with Spring Boot"
   contactDetails:
     name: "Noel - Developer"

@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+loans:
   message: "Welcome to the course about loans with Spring Boot"
   contactDetails:
     name: "Noel - Developer"

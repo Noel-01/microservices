@@ -17,7 +17,7 @@ spring:
           force-pull: true
 
 encrypt:
-  key: "7GZQX2F9LWM84V0RNJ5T1K3BDUY6A"
+  key:
 
 server:
     port: 8071

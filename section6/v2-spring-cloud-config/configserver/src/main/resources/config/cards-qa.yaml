@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to the course about microservices related to QA APIs"
   contactDetails:
     name: "Juanito - QA"
