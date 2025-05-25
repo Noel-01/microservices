@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the course about cards with Spring Boot"
+  contactDetails:
+    name: "Noel - Developer"
+    email: "nowel@email.com"
+  onCallSupport:
+    - 677777777
+    - 688888888
